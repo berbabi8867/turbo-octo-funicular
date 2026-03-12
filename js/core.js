@@ -1,0 +1,39 @@
+var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opens = _____WB$wombat$assign$function_____("opens");
+/*
+ @licstart  The following is the entire license notice for the
+    JavaScript code in this page.
+
+ Copyright (C) 2015 Fight for the Future
+
+ The JavaScript code in this page is free software: you can
+ redistribute it and/or modify it under the terms of the GNU
+ General Public License (GNU GPL) as published by the Free Software
+ Foundation, either version 3 of the License, or (at your option)
+ any later version. The code is distributed WITHOUT ANY WARRANTY;
+ without even the implied warranty of MERCHANTABILITY or FITNESS
+ FOR A PARTICULAR PURPOSE. See the GNU GPL for more details.
+
+ As additional permission under GNU GPL version 3 section 7, you
+ may distribute non-source (e.g., minimized or compacted) forms of
+ that code without the copy of the GNU GPL normally required by
+ section 4, provided you include this license notice and a URL
+ through which recipients can access the Corresponding Source.
+
+ @licend  The above is the entire license notice
+    for the JavaScript code in this page.
+*/
+(function (doc, win) {
+    "use strict";
+
+})(document, window);
+
+//# sourceMappingURL=core.js.map
+}
